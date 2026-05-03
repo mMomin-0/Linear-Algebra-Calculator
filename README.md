@@ -12,7 +12,7 @@ In this project, we've made a website based calculator that is programmed to do 
 # Introduction:
 This project is made possible by the efforts of 1 week of Muhammad Momin(07-3-1-027-2025) and Abdullah Bilal. The idea is simple: To create a calculator that runs directly on your web browser without any need to install an app. The interface is kept user friendly to enhance efficiency and productivity. 
 
-# Basic Working Flow:
+# Basic Work Flow:
 The calculator is designed in a way that it accepts the input size of a matrices and then the individual entities in the grid. Then the functions to be performed are asked that vary from as simple as addition or transpose to as complex as inverse, determinant or echlon form. The goal is to put all the needs in one place.
 
 # Example Function:
