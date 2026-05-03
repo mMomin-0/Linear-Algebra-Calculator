@@ -32,6 +32,7 @@ Another part of the focus is the accuracy and the clarity of the results. The so
 
 # Backend Working:
 Different logics are made to make the programs of the calculation. CSS, JAVA, HTML are used to make this possible.
+As any other project, this was the hardest part and if more time was allocated for the project, many more fucntions could be added and the interface and user eexperince could be enhanced by a mile.
 
 # At the end:
 Overall this project aims at making the work productive and putting the needs all in one place. 
